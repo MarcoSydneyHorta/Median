@@ -1,0 +1,15 @@
+D:\Marco\Cursos\C#\Median\Median\bin\Debug\net5.0\Median.exe
+D:\Marco\Cursos\C#\Median\Median\bin\Debug\net5.0\Median.deps.json
+D:\Marco\Cursos\C#\Median\Median\bin\Debug\net5.0\Median.runtimeconfig.json
+D:\Marco\Cursos\C#\Median\Median\bin\Debug\net5.0\Median.runtimeconfig.dev.json
+D:\Marco\Cursos\C#\Median\Median\bin\Debug\net5.0\Median.dll
+D:\Marco\Cursos\C#\Median\Median\bin\Debug\net5.0\ref\Median.dll
+D:\Marco\Cursos\C#\Median\Median\bin\Debug\net5.0\Median.pdb
+D:\Marco\Cursos\C#\Median\Median\obj\Debug\net5.0\Median.GeneratedMSBuildEditorConfig.editorconfig
+D:\Marco\Cursos\C#\Median\Median\obj\Debug\net5.0\Median.AssemblyInfoInputs.cache
+D:\Marco\Cursos\C#\Median\Median\obj\Debug\net5.0\Median.AssemblyInfo.cs
+D:\Marco\Cursos\C#\Median\Median\obj\Debug\net5.0\Median.csproj.CoreCompileInputs.cache
+D:\Marco\Cursos\C#\Median\Median\obj\Debug\net5.0\Median.dll
+D:\Marco\Cursos\C#\Median\Median\obj\Debug\net5.0\ref\Median.dll
+D:\Marco\Cursos\C#\Median\Median\obj\Debug\net5.0\Median.pdb
+D:\Marco\Cursos\C#\Median\Median\obj\Debug\net5.0\Median.genruntimeconfig.cache
